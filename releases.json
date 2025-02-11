@@ -1,0 +1,10 @@
+{
+  "version": "v1.0.1",
+  "notes": "Test",
+  "pub_date": "2025-02-11T07:29:15.523Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/madlad03/CuteNotchReleases/releases/download/v1.0.2/cutenotch.app.tar.gz"
+    }
+  }
+}

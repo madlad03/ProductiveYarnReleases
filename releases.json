@@ -1,11 +1,11 @@
 {
-  "version": "v1.0.1",
-  "notes": "Test update",
+  "version": "v1.0.0",
+  "notes": "Initial release",
   "pub_date": "2025-02-11T07:29:15.523Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNGlPRlVrQy9tT3h0M0N6Z0QvN3praTV1QThNalZ1Ym1BRzJ1WUJ5ZFQveWh1L2cwZ0MzbFBBbXpFb1AxYmFJRGcvV0wrTGswSncwZzVacU4yT2p2R3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5NTA3NDMzCWZpbGU6cHJvZHVjdGl2ZXlhcm4uYXBwLnRhci5negp4QTRDM05PQkM1U3EvVXMrNHB3K2NzbFRrdEJ2SE14Vks0aHFjS01MeVFTdzlHbUQ2Qi9GTTd5VXp3ZmtZNDEvZVBONFJjbEVkK1lxZk9ZQktMOERDQT09Cg==",
-      "url": "https://github.com/madlad03/ProductiveYarnReleases/releases/download/v1.0.1/productiveyarn.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNHVEM3RQM0pNWDI3QlNwUTNzUDVJRnRnQjE1Y1djSEhycjdEVENZN2ZGelZrMWVMeU5FdW52cjBETUF2T3VKRTl4YnZITzM5V2o5MyswWFowbHNoamdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5NTkxMzc0CWZpbGU6cHJvZHVjdGl2ZXlhcm4uYXBwLnRhci5negpzK05RbDViTVlQcHY1R285RmMrdngrSW9VM2g1aFhzK3F2QTB4aXUvbVdjVnNqY05CNElyOWlyWkE5ZXpTUXFhdTFhT2tiRHVLY1FiWE5FT2N1RTFBQT09Cg==",
+      "url": "https://github.com/madlad03/ProductiveYarnReleases/releases/download/v1.0.0/productiveyarn.app.tar.gz"
     }
   }
 }

@@ -1,15 +1,11 @@
 {
-  "version": "v1.0.0",
-  "notes": "Initial release",
-  "pub_date": "2025-02-11T07:29:15.523Z",
+  "version": "v1.1.0",
+  "notes": "Added tab and window switching",
+  "pub_date": "2025-02-26T06:58:16.613Z",
   "platforms": {
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNG9EWnZWY3NrVHBHeTgzdHE5aEFnSkVMK0J2T3Z1RXA0UEpIcDl1RkhuTE5vUjh2bm5mRFkwMlZMNi9McmFiSFh4RlpVMFRZa3c5Qkg2T29xSUVQZVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5ODQ2Nzg3CWZpbGU6cHJvZHVjdGl2ZXlhcm4uYXBwLnRhci5negp1VUUwM1IvUUNTMEgvNXRQc0k1TjVYbkdDdk5OV0ZYSXhrd0JYWDhaa3plTlFWQzJER1ZqOEtDOFZkWFkwbGJYOG95QXFST3RRWGNIOHhoMnBkZ2NEdz09Cg==",
-      "url": "https://github.com/madlad03/ProductiveYarnReleases/releases/download/v1.0.0/productiveyarn.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNHI3S01sVzlBa1JTbVgxN1c0VVpLc1l0dXZ5SW1lSGVHdnkyUGNmTkgxMnhKNmRDLy9IK0lNKzczamtsUjltY3RsNFFBWVF6eStUd1hpUDh0SW91MkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5ODQ2ODkxCWZpbGU6cHJvZHVjdGl2ZXlhcm4uYXBwLnRhci5negpHMW1zWEF1SEE5QmIyTzFvbFFCT3ptSWJPaHdFejJWSFpLTjZ5Zk9xZUcxYjhaaFVoeENlbzVOQVhFZlNjNWo2QmhWZUt3OW5nSmx5RGlmajN4cUJDQT09Cg==",
-      "url": "https://github.com/madlad03/ProductiveYarnReleases/releases/download/v1.0.0/productiveyarn_x64.app.tar.gz"
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNGxQYUNUMCt3bHVDOEFydDgvclJQbjZEeXBBcmlzYmZ1dEF4QnB6cmhTaGFMbG03N2t3emt2S3QzTTlSVWhUbjJGcFRLOFZnTkR4WUNFWE0vKzZOMXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwNTUyMTk1CWZpbGU6cHJvZHVjdGl2ZXlhcm5fMS4xLjBfeDY0X2VuLVVTLm1zaQpuV2VwVTJqSXBqYjhuRVNva29OWlorQ0hZWGZQUEdTQWNRVjR1M2VqcnRnL0UvaWxwSjBKQ0xiOGh5SlNIRnZOcmFHVG1nSGwrTllFOGw4UUVNaWdEZz09Cg==",
+      "url": "https://github.com/madlad03/ProductiveYarnReleases/releases/download/v1.0.0/productiveyarn_1.1.0_x64_en-US.msi"
     }
   }
 }

@@ -1,11 +1,11 @@
 {
-  "version": "v1.1.0",
+  "version": "v1.1.2",
   "notes": "Added tab and window switching",
-  "pub_date": "2025-02-26T06:58:16.613Z",
+  "pub_date": "2025-02-26T07:27:25.934Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNGxQYUNUMCt3bHVDOEFydDgvclJQbjZEeXBBcmlzYmZ1dEF4QnB6cmhTaGFMbG03N2t3emt2S3QzTTlSVWhUbjJGcFRLOFZnTkR4WUNFWE0vKzZOMXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwNTUyMTk1CWZpbGU6cHJvZHVjdGl2ZXlhcm5fMS4xLjBfeDY0X2VuLVVTLm1zaQpuV2VwVTJqSXBqYjhuRVNva29OWlorQ0hZWGZQUEdTQWNRVjR1M2VqcnRnL0UvaWxwSjBKQ0xiOGh5SlNIRnZOcmFHVG1nSGwrTllFOGw4UUVNaWdEZz09Cg==",
-      "url": "https://github.com/madlad03/ProductiveYarnReleases/releases/download/v1.0.0/productiveyarn_1.1.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNGgyTk56Nko0TEZVRFkzSVpMY1llQmVHUDJHRG1pMDFtcGFWR1VGc3lpbUhLbndJVVVMWE1tdmhRQ3FQV3ZrWGluM0x2eHp3ZEFueXZkZGhUTW8rM0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwNTU0MzE3CWZpbGU6cHJvZHVjdGl2ZXlhcm5fMS4xLjJfeDY0X2VuLVVTLm1zaQpuSGg5S3N5eFQ5Z3pEaGpLR3R2NVNTVy9Qd2pPc1BLNythbmtiS2liaGU2SXhWMHdjM2xyaEtvcE9Rb2tUSUY3WnB2U0d4Tk4va1FnOXNIRmFTUWlDZz09Cg==",
+      "url": "https://github.com/madlad03/ProductiveYarnReleases/releases/download/v1.1.2/productiveyarn_1.1.2_x64_en-US.msi"
     }
   }
 }
